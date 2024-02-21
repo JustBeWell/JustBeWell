@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JustBeWell
+- 👀 I’m interested in coding and making new projects and stuff
+- 🌱 I’m currently learning software in UMA 
+- 💞️ I’m looking to collaborate on all the projects that could lead into learning more things
+- 📫 My email is byanicoyt@gmail.com
