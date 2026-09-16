@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Ángel Nicolás Escaño López — Full Stack e IA aplicada</title>
+  <desc id="desc">Ingeniero de Software por la Universidad de Málaga. Desarrollo web, backend y automatización con agentes.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#102235"/>
+      <stop offset="100%" stop-color="#09121e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#background)"/>
+  <rect x="0" y="32" width="5" height="216" rx="2" fill="#6de0d3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="62" font-size="25" font-weight="600" fill="#f2f5fa">Ángel Nicolás Escaño López</text>
+    <text x="58" y="136" font-size="55" font-weight="700" letter-spacing="-1.3" fill="#ffffff">Full Stack &amp; Applied AI</text>
+    <text x="60" y="178" font-size="20" fill="#b9c9db">Ingeniero de Software · Universidad de Málaga · España</text>
+    <text x="60" y="235" font-size="14" font-weight="700" letter-spacing="2.4" fill="#6de0d3">WEB / BACKEND / AGENTES / AUTOMATIZACIÓN</text>
+    <text x="960" y="62" font-size="18" fill="#b9c9db">@JustBeWell</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M948 115 L913 147 L948 179 M1060 115 L1095 147 L1060 179" stroke="#6de0d3" stroke-width="8"/>
+    <path d="M1024 103 L990 191" stroke="#f2f5fa" stroke-width="8"/>
+    <path d="M889 222 H1120" stroke="#284157" stroke-width="2"/>
+    <circle cx="889" cy="222" r="4" fill="#6de0d3" stroke="none"/>
+  </g>
+</svg>
