@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angel-nicolas-esca%C3%B1o-lopez-32031426b"><strong>LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/%C3%A1ngel-nicol%C3%A1s-esca%C3%B1o-l%C3%B3pez-32031426b/"><strong>LinkedIn</strong></a>
   &nbsp; · &nbsp;
   <a href="https://www.quizy.es/"><strong>Quizy en vivo</strong></a>
   &nbsp; · &nbsp;
@@ -64,4 +64,4 @@ También impartí clases de **Java, programación orientada a objetos, bases de 
 
 ## Hablemos
 
-Si buscas un desarrollador para un equipo de **full stack, backend o IA aplicada**, puedes escribirme por [LinkedIn](https://www.linkedin.com/in/angel-nicolas-esca%C3%B1o-lopez-32031426b) o a **[byanicoyt@gmail.com](mailto:byanicoyt@gmail.com)**.
+Si buscas un desarrollador para un equipo de **full stack, backend o IA aplicada**, puedes escribirme por [LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-nicol%C3%A1s-esca%C3%B1o-l%C3%B3pez-32031426b/) o a **[byanicoyt@gmail.com](mailto:byanicoyt@gmail.com)**.
