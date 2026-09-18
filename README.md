@@ -18,13 +18,13 @@
 
 <br>
 
-## 👋 Hola, soy Ángel
+## Hola, soy Ángel
 
 Soy **Ingeniero de Software por la Universidad de Málaga** y desarrollo aplicaciones full stack con un interés especial en la **IA aplicada**. Me gusta convertir problemas reales en productos claros: interfaces que se entienden, APIs que aguantan y automatizaciones que ahorran trabajo.
 
 Actualmente estoy abierto a oportunidades de **desarrollo full stack, backend e IA aplicada**, principalmente en Málaga.
 
-## ✦ Cómo trabajo
+## Cómo trabajo
 
 <p align="center">
   <img src="assets/work-carousel.svg" alt="Carrusel: producto, ingeniería e IA aplicada" width="100%">
@@ -32,36 +32,36 @@ Actualmente estoy abierto a oportunidades de **desarrollo full stack, backend e 
 
 <p align="center"><sub>Producto · ingeniería · IA aplicada — tres capas para convertir una idea en algo que la gente puede usar.</sub></p>
 
-## 🧩 Stack tecnológico
+## Stack tecnológico
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎨 Frontend & producto</h3>
+      <h3 align="center">Frontend & producto</h3>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css&perline=7" alt="TypeScript, JavaScript, React, Next.js, Angular, HTML y CSS"></a>
       <br><sub>Interfaces claras, responsive y orientadas a producto.</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Backend & APIs</h3>
+      <h3 align="center">Backend & APIs</h3>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&perline=4" alt="Python, FastAPI, Node.js y Express"></a>
       <br><sub>Servicios mantenibles, integraciones y automatización.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗄️ Datos & entorno</h3>
+      <h3 align="center">Datos & entorno</h3>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github&perline=5" alt="PostgreSQL, MySQL, Docker, Git y GitHub"></a>
       <br><sub>Datos bien estructurados y flujos de trabajo reproducibles.</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Mobile & calidad</h3>
+      <h3 align="center">Mobile & calidad</h3>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift,kotlin,playwright&perline=3" alt="Swift, Kotlin y Playwright"></a>
       <br><sub>Aplicaciones móviles, pruebas y mejora continua.</sub>
     </td>
   </tr>
 </table>
 
-## ⭐ Producto principal · Quizy
+## Producto principal · Quizy
 
 <table>
   <tr>
@@ -90,7 +90,7 @@ Actualmente estoy abierto a oportunidades de **desarrollo full stack, backend e 
   </tr>
 </table>
 
-## 🚀 Más proyectos
+## Más proyectos
 
 <table>
   <tr>
@@ -145,7 +145,7 @@ Actualmente estoy abierto a oportunidades de **desarrollo full stack, backend e 
 
 <p align="center"><a href="https://github.com/JustBeWell?tab=repositories"><strong>Ver todos mis repositorios →</strong></a></p>
 
-## 📊 Un vistazo a GitHub
+## Un vistazo a GitHub
 
 <p align="center">
   <a href="https://github.com/JustBeWell">
@@ -160,19 +160,19 @@ Actualmente estoy abierto a oportunidades de **desarrollo full stack, backend e 
   <img src="https://streak-stats.demolab.com?user=JustBeWell&theme=tokyonight&hide_border=true&background=102235&ring=6DE0D3&fire=6DE0D3&currStreakLabel=6DE0D3" alt="Racha de contribuciones">
 </p>
 
-## 💼 Experiencia que aporto
+## Experiencia que aporto
 
 En **VIEWNEXT** trabajé en proyectos para **Cajamar e Iberdrola**, creando automatizaciones con agentes de IA para generar y validar componentes reutilizables y desarrollando aplicaciones iOS con pruebas unitarias y de integración.
 
 También impartí clases de **Java, programación orientada a objetos, bases de datos y SQL** entre marzo de 2025 y julio de 2026.
 
-## 🌱 Ahora mismo
+## Ahora mismo
 
 - Construyendo productos full stack con especial atención a la experiencia de usuario.
 - Investigando cómo integrar agentes de IA de forma útil, segura y mantenible.
 - Abierto a colaborar en proyectos que tengan un problema interesante detrás.
 
-## 📫 Hablemos
+## Hablemos
 
 Si buscas un desarrollador para un equipo de **full stack, backend o IA aplicada**, puedes escribirme por [LinkedIn](https://www.linkedin.com/in/%C3%A1ngel-nicol%C3%A1s-esca%C3%B1o-l%C3%B3pez-32031426b/) o a **[byanicoyt@gmail.com](mailto:byanicoyt@gmail.com)**.
 
