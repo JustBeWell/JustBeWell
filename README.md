@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=2800&pause=900&color=6DE0D3&center=true&vCenter=true&width=820&lines=Full+Stack+%7C+Applied+AI;Construyo+productos+útiles+y+con+personalidad;Siempre+aprendiendo%2C+siempre+creando" alt="Animación: Full Stack, IA aplicada y aprendizaje continuo">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=21&duration=2800&pause=900&color=6DE0D3&center=true&vCenter=true&width=820&lines=Full+Stack+%7C+Applied+AI%3BBuilding+useful+products%3BAlways+learning%2C+always+creating" alt="Animación: Full Stack, IA aplicada y aprendizaje continuo">
 </p>
 
 <p align="center">
