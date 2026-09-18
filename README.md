@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/JustBeWell"><img src="https://img.shields.io/badge/GitHub-JustBeWell-102235?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub"></a>
   <a href="https://www.linkedin.com/in/%C3%A1ngel-nicol%C3%A1s-esca%C3%B1o-l%C3%B3pez-32031426b/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn"></a>
-  <a href="https://www.quizy.es/"><img src="https://img.shields.io/badge/Quizy-Probar%20la%20demo-6DE0D3?style=for-the-badge&logo=vercel&logoColor=102235" alt="Abrir Quizy"></a>
+  <a href="https://www.quizy.es/"><img src="https://img.shields.io/badge/Quizy-App%20funcional-6DE0D3?style=for-the-badge&logo=vercel&logoColor=102235" alt="Entrar en Quizy"></a>
 </p>
 
 <p align="center">
@@ -24,62 +24,59 @@ Soy **Ingeniero de Software por la Universidad de Málaga** y desarrollo aplicac
 
 Actualmente estoy abierto a oportunidades de **desarrollo full stack, backend e IA aplicada**, principalmente en Málaga.
 
+## ✦ Cómo trabajo
+
+<p align="center">
+  <img src="assets/work-carousel.svg" alt="Carrusel: producto, ingeniería e IA aplicada" width="100%">
+</p>
+
+<p align="center"><sub>Producto · ingeniería · IA aplicada — tres capas para convertir una idea en algo que la gente puede usar.</sub></p>
+
+## 🧩 Stack tecnológico
+
 <table>
   <tr>
-    <td width="33%" align="center">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/code.png" width="52" alt="Código">
-      <br><strong>Construyo</strong>
-      <br><sub>Productos web, APIs y aplicaciones de escritorio</sub>
-      <br><br>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend & producto</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css&perline=7" alt="TypeScript, JavaScript, React, Next.js, Angular, HTML y CSS"></a>
+      <br><sub>Interfaces claras, responsive y orientadas a producto.</sub>
     </td>
-    <td width="33%" align="center">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="52" alt="Inteligencia artificial">
-      <br><strong>Exploro</strong>
-      <br><sub>LLM, agentes y automatización con datos reales</sub>
-      <br><br>
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend & APIs</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&perline=4" alt="Python, FastAPI, Node.js y Express"></a>
+      <br><sub>Servicios mantenibles, integraciones y automatización.</sub>
     </td>
-    <td width="33%" align="center">
-      <br>
-      <img src="https://img.icons8.com/fluency/96/rocket.png" width="52" alt="Cohete">
-      <br><strong>Aprendo</strong>
-      <br><sub>Probando ideas y mejorando cada iteración</sub>
-      <br><br>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Datos & entorno</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github&perline=5" alt="PostgreSQL, MySQL, Docker, Git y GitHub"></a>
+      <br><sub>Datos bien estructurados y flujos de trabajo reproducibles.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 Mobile & calidad</h3>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift,kotlin,playwright&perline=3" alt="Swift, Kotlin y Playwright"></a>
+      <br><sub>Aplicaciones móviles, pruebas y mejora continua.</sub>
     </td>
   </tr>
 </table>
 
-## 🧩 Stack tecnológico
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css,python,fastapi,postgres,docker,git,github,swift,kotlin&perline=8" alt="Tecnologías: TypeScript, JavaScript, React, Next.js, Angular, HTML, CSS, Python, FastAPI, PostgreSQL, Docker, Git, GitHub, Swift y Kotlin">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Angular-102235?style=flat-square" alt="Frontend">
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI%20%7C%20REST-102235?style=flat-square" alt="Backend">
-  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20SQL-102235?style=flat-square" alt="Datos">
-  <img src="https://img.shields.io/badge/Quality-Pytest%20%7C%20Vitest%20%7C%20Playwright-102235?style=flat-square" alt="Calidad">
-</p>
-
-## ⭐ Proyecto principal · Quizy
+## ⭐ Producto principal · Quizy
 
 <table>
   <tr>
     <td width="58%" valign="middle">
       <a href="https://www.quizy.es/">
-        <img src="https://image.thum.io/get/width/1200/crop/900/https://www.quizy.es/" alt="Captura de la plataforma educativa Quizy" width="100%">
+        <img src="assets/quizy-cover.svg" alt="Portada visual de la app educativa Quizy" width="100%">
       </a>
     </td>
     <td width="42%" valign="middle">
       <h3>Del primer test al «ahora lo entiendo»</h3>
-      <p><strong>Quizy</strong> es la plataforma educativa que he creado y lanzado para que estudiantes de ESO, Bachillerato y universidad practiquen con tests de su temario, entiendan sus errores y vean cómo avanzan.</p>
+      <p><strong>Quizy</strong> es una app educativa funcional, versionada y en producción que he diseñado, desarrollado y lanzado para que estudiantes de ESO, Bachillerato y universidad practiquen con tests de su temario, entiendan sus errores y vean cómo avanzan.</p>
       <p>
-        <img src="https://img.shields.io/badge/300%2B-usuarios%20registrados-6DE0D3?style=flat-square&labelColor=102235" alt="Más de 300 usuarios registrados">
-        <img src="https://img.shields.io/badge/1000%2B-preguntas-6DE0D3?style=flat-square&labelColor=102235" alt="Más de 1000 preguntas">
+        <img src="https://img.shields.io/badge/APP-FUNCIONAL-6DE0D3?style=flat-square&labelColor=102235" alt="App funcional">
+        <img src="https://img.shields.io/badge/VERSIONADA-6DE0D3?style=flat-square&labelColor=102235" alt="Aplicación versionada">
+        <img src="https://img.shields.io/badge/EN%20PRODUCCIÓN-6DE0D3?style=flat-square&labelColor=102235" alt="Aplicación en producción">
       </p>
       <p><strong>Incluye:</strong> práctica por temas, repaso de errores, simulacros, favoritos, historial, planes de estudio y duelos privados.</p>
       <p>
