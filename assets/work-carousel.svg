@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Cómo trabajo — producto, ingeniería e IA aplicada</title>
+  <desc id="desc">Carrusel animado con tres ideas: convertir problemas en producto, construir con criterio y aplicar IA de forma útil.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#102235"/>
+      <stop offset="100%" stop-color="#09121e"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6de0d3" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#6de0d3" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="390" rx="22" fill="url(#bg)"/>
+  <circle cx="1090" cy="-20" r="240" fill="#17394a" opacity="0.45"/>
+  <rect x="0" y="0" width="720" height="390" rx="22" fill="url(#glow)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="68" font-size="14" font-weight="700" letter-spacing="3" fill="#6de0d3">CÓMO TRABAJO</text>
+    <text x="64" y="108" font-size="27" font-weight="700" fill="#ffffff">De la idea al producto que se usa.</text>
+    <text x="64" y="140" font-size="16" fill="#b9c9db">Una forma de trabajar en tres movimientos.</text>
+  </g>
+  <g>
+    <g opacity="1">
+      <animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;0.26;0.34;0.66;0.74;1" dur="12s" repeatCount="indefinite"/>
+      <rect x="64" y="194" width="510" height="124" rx="18" fill="#ffffff"/>
+      <circle cx="112" cy="244" r="24" fill="#d9f8f1"/>
+      <path d="M101 248 L112 237 L123 248 L112 259 Z" fill="none" stroke="#237967" stroke-width="3"/>
+      <text x="154" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4" fill="#237967">01 / PRODUCTO</text>
+      <text x="154" y="262" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#102235">Problemas claros. Productos útiles.</text>
+      <text x="154" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#627588">Entender, simplificar y validar antes de añadir ruido.</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26;0.34;0.66;0.74;1" dur="12s" repeatCount="indefinite"/>
+      <rect x="64" y="194" width="510" height="124" rx="18" fill="#ffffff"/>
+      <circle cx="112" cy="244" r="24" fill="#fff0d7"/>
+      <path d="M101 235 L112 246 L123 235 M112 246 V262 M101 255 H123" fill="none" stroke="#c87b16" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="154" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4" fill="#c87b16">02 / INGENIERÍA</text>
+      <text x="154" y="262" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#102235">Código que aguanta la siguiente iteración.</text>
+      <text x="154" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#627588">Arquitectura, tests y decisiones que se pueden mantener.</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.26;0.34;0.66;0.74;0.94;1" dur="12s" repeatCount="indefinite"/>
+      <rect x="64" y="194" width="510" height="124" rx="18" fill="#ffffff"/>
+      <circle cx="112" cy="244" r="24" fill="#e9e1ff"/>
+      <path d="M100 253 C108 239 116 239 124 226 M100 253 L110 252 M124 226 L123 236" fill="none" stroke="#7454ba" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="154" y="234" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4" fill="#7454ba">03 / IA APLICADA</text>
+      <text x="154" y="262" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" fill="#102235">Automatizar lo repetitivo. Mejorar lo importante.</text>
+      <text x="154" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#627588">Agentes y datos con criterio, contexto y responsabilidad.</text>
+    </g>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="766" y="80" font-size="14" font-weight="700" letter-spacing="2" fill="#b9c9db">FULL STACK</text>
+    <text x="766" y="118" font-size="32" font-weight="700" fill="#ffffff">Producto</text>
+    <text x="766" y="158" font-size="32" font-weight="700" fill="#ffffff">con intención.</text>
+    <line x1="766" y1="194" x2="1118" y2="194" stroke="#284157" stroke-width="2"/>
+    <circle cx="774" cy="230" r="6" fill="#6de0d3"/>
+    <text x="794" y="236" font-size="15" fill="#b9c9db">UX que se entiende</text>
+    <circle cx="774" cy="268" r="6" fill="#6de0d3"/>
+    <text x="794" y="274" font-size="15" fill="#b9c9db">Sistemas que evolucionan</text>
+    <circle cx="774" cy="306" r="6" fill="#6de0d3"/>
+    <text x="794" y="312" font-size="15" fill="#b9c9db">IA que aporta valor</text>
+    <rect x="766" y="344" width="352" height="2" fill="#284157"/>
+  </g>
+</svg>
