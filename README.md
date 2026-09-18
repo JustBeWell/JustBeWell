@@ -65,7 +65,35 @@ Actualmente estoy abierto a oportunidades de **desarrollo full stack, backend e 
   <img src="https://img.shields.io/badge/Quality-Pytest%20%7C%20Vitest%20%7C%20Playwright-102235?style=flat-square" alt="Calidad">
 </p>
 
-## 🚀 Proyectos destacados
+## ⭐ Proyecto principal · Quizy
+
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <a href="https://www.quizy.es/">
+        <img src="https://image.thum.io/get/width/1200/crop/900/https://www.quizy.es/" alt="Captura de la plataforma educativa Quizy" width="100%">
+      </a>
+    </td>
+    <td width="42%" valign="middle">
+      <h3>Del primer test al «ahora lo entiendo»</h3>
+      <p><strong>Quizy</strong> es la plataforma educativa que he creado y lanzado para que estudiantes de ESO, Bachillerato y universidad practiquen con tests de su temario, entiendan sus errores y vean cómo avanzan.</p>
+      <p>
+        <img src="https://img.shields.io/badge/300%2B-usuarios%20registrados-6DE0D3?style=flat-square&labelColor=102235" alt="Más de 300 usuarios registrados">
+        <img src="https://img.shields.io/badge/1000%2B-preguntas-6DE0D3?style=flat-square&labelColor=102235" alt="Más de 1000 preguntas">
+      </p>
+      <p><strong>Incluye:</strong> práctica por temas, repaso de errores, simulacros, favoritos, historial, planes de estudio y duelos privados.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+      </p>
+      <p><a href="https://www.quizy.es/"><strong>Entrar en Quizy →</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+## 🚀 Más proyectos
 
 <table>
   <tr>
